@@ -1,0 +1,12 @@
+{
+    "Index": {
+        "title": "Home",
+        "description": "Isto e um test."
+    },
+    "LocaleSwitcher": {
+        "switchLocale": "Switch to {locale, select, pt {Portuguese} en {English} other {Unknown}}"
+    },
+    "PageLayout": {
+        "pageTitle": "next-intl"
+    }
+}
